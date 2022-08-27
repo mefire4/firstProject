@@ -1,0 +1,2134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+
+    margin: 0; 
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+.logo{
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    left: 40.24px;
+    top: 32px;
+}
+
+.sign a{
+position: absolute;
+display: flex;
+text-decoration: none;
+margin-left: 1200px;
+top: 46px;
+font-size: 15px;
+color: #5ECCB7;
+}
+
+.login a{
+    position: absolute;
+    display: flex;
+    text-decoration: none;
+    margin-left: 1280px;
+    top: 46px;
+    font-size: 15px;
+    color: black;
+
+}
+
+.introduction{
+    background-color: #5ECCB7;
+    margin-top: 150px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 25px;   
+}
+
+.presentation{
+width: auto;
+font-weight: 600;
+font-size: 12px;
+letter-spacing: 0.01em;
+color: #FFFFFF;
+margin-left: 180px;
+}
+
+
+.introduction{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.btn a{
+    border: solid;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 2px  12px 2px 12px;
+    text-decoration: none;
+    font-size:  13px;
+    font-weight: 2px;
+    color: white;
+    margin-right: 200px;
+}
+
+.digitize{
+
+
+    position: absolute;
+    height: 88px;
+    left: 53.24px;
+    right: 907.76px;
+    top: 337px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 45px;
+    letter-spacing: 1px;
+    color: #5ECCB7;
+    
+}
+
+.engaging{
+    position: absolute;
+    width: 300px;
+    left: 55.24px;
+    right: 1033.76px;
+    top: 470px;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #091133;
+}
+
+.course a{
+    position: absolute;
+    font-size: 15px;
+    width: 170px;
+    text-decoration: none;
+    top: 600px;
+    left: 55.24px;
+    line-height: 25px;
+    color: white;
+    border: 1px solid white;
+    background-color: #091133;
+    padding: 0px 27px 0px 50px;
+    border-radius: 5px;
+    
+}
+
+.digital img{
+   position: absolute;
+   width: 900px;
+   height: 483.75px;
+   left: 400px;
+   top: 259px;
+}
+
+.about{
+    position: absolute;
+    height: 25px;
+    left: 55.24px;
+    right: 1180.76px;
+    top: 783px;
+    width: 500px;
+
+    font-size: 18px;
+    line-height: 39px;
+    letter-spacing: 1px;
+    color: #DF493A;
+}
+
+.clock{
+    position: absolute;
+    left: 55.24px;
+    right: 490.76px;
+    top: 825px;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+.trait{
+    float: right;
+    position: absolute;
+    left: 850px;
+    top: 700px;
+}
+
+.logo2 img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 55.24px;
+    top: 1085px;
+
+}
+.muitiplicitecontent {
+    
+position: absolute;
+left: 185.5px;
+top: 1100px;
+font-size: 20px;
+font-weight: 0px;
+letter-spacing: 1px;
+
+}
+
+.imagediver img{
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    left: 50px;
+    top: 1222px;
+}
+
+.microsoft{
+    position: absolute;
+    height: 241px;
+    left: 550px;
+    right: 140px;
+    top: 1300px;
+    
+    font-size: 15px;
+    line-height: 25px;
+    text-align: justify;
+    letter-spacing: 1px;
+
+}
+
+.pointiller{
+    position: absolute;
+    width: 541.25px;
+    height: 145.37px;
+    left: 800px;
+    top: 1500px;
+
+}
+
+.bigfuture img{
+    position: absolute;
+    width: 400px;
+    height: 20px2;
+    left: 0px;
+    top: 1700px;
+
+}
+
+.futurblue img{
+    
+    position: absolute;
+    width: 78px;
+    height: 70px;
+    left: 595.24px;
+    top: 1700px;
+    background: #00D4A9;
+    border-radius: 30px;
+}
+
+.fEATURES{
+    position: absolute;
+    width: 198px;
+    height: 40px;
+    left: 700px;
+    top: 1720px;
+    font-size: 28px;
+    line-height: 39px;
+    letter-spacing: 1px;
+    
+}
+
+.les-card{
+    
+    width: 100%;
+    height: auto;  
+}
+
+
+.card{
+    position: absolute;
+    top: 2000px;
+    width: 200px;
+    height: 340px;
+    margin-left: 200px;
+    background: #DF493A;
+    border-radius: 11px;
+
+}
+
+.card-header{
+    left: 146.24px;
+    padding: 50px 10px;
+    width: 100%;
+    height: 80px;
+    left: 131.24px;
+    background: #FFFFFF;
+    border-radius: 11px 11px 0px 0px;
+    box-shadow: 1px 1px  0px 1px lightgray;
+    
+
+}
+
+.card-img img{ 
+
+    border-radius: 35%;
+    margin-top: -12px;
+    margin-left: 40px;
+    background: #1F2367;
+
+}
+
+.card-body{
+
+    width: 198px;
+    height: 179px;
+    left: 146.24px;
+    font-weight: 398;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    padding-left: 5px;
+    color: #1F2367;
+    border-radius: 50px;
+}
+
+.card-2{
+    position: absolute;
+    top: 2050px;
+    width: 200px;
+    height: 340px;
+    margin-left: 500px;
+    background: #ED9D5E;
+    border-radius: 11px;
+
+}
+
+
+.card-header-2{
+    left: 146.24px;
+    padding: 50px 10px;
+    width: 100%;
+    height: 100px;
+    left: 131.24px;
+    background: white;
+    border-radius: 11px 11px 0px 0px;
+    box-shadow: 1px 1px  0px 1px lightgray;
+
+}
+
+.card-img-2 img{
+    border-radius: 30%;
+    margin-top: -12px;
+    margin-left: 40px;
+    background: #1F2367;
+
+}
+
+.card-body-2{
+    width: 198px;
+    height: 179px;
+    left: 146.24px;
+    font-weight: 398;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    padding-left: 5px;
+    color: #1F2367;
+    border-radius: 50px;
+}
+
+.card-3{
+    position: absolute;
+    top: 2000px;
+    width: 200px;
+    height: 340px;
+    margin-left: 750px;
+    background: #6DA0A1;
+    border-radius: 11px;
+
+}
+
+.card-header-3{
+    left: 146.24px;
+    padding: 50px 10px;
+    width: 100%;
+    height: 100px;
+    left: 131.24px;
+    background: #FFFFFF;
+    border-radius: 11px 11px 0px 0px;
+    box-shadow: 1px 1px  0px 1px lightgray;
+
+    
+}
+
+
+.card-img-3 img{
+    border-radius: 50%;
+    margin-top: -12px;
+    margin-left: 40px;
+    background: #1F2367;
+
+}
+
+.card-body-3{
+    width: 198px;
+    height: 179px;
+    left: 146.24px;
+    font-weight: 398;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    padding-left: 5px;
+    color: #1F2367;
+    border-radius: 50px;
+ 
+}
+
+.card-4{
+    position: absolute;
+    top: 2050px;
+    width: 200px;
+    height: 340px;
+    margin-left: 1000px;
+    background: #D97AA3;
+    border-radius: 11px;
+ 
+}
+
+.card-5{
+    position: absolute;
+    top: 2350px;
+    width: 200px;
+    height: 340px;
+    margin-left: 200px;
+    background: #F4D147;
+    border-radius: 11px;
+}
+
+.card-6{
+    position: absolute;
+    top: 2400px;
+    width: 200px;
+    height: 340px;
+    margin-left: 500px;
+    background: #DCE9E9;
+    border-radius: 11px;
+    
+}
+
+.card-7{
+    position: absolute;
+    top: 2350px;
+    width: 200px;
+    height: 340px;
+    margin-left: 750px;
+    background: #EDC7B8;
+    border-radius: 11px;
+}
+
+.card-8{
+    position: absolute;
+    top: 2400px;
+    width: 200px;
+    height: 340px;
+    margin-left: 1000px;
+    background: #9FB9C8;
+    border-radius: 11px;
+
+}
+
+.bouton-3 a{
+    text-decoration: none;
+    position: absolute;
+    height: 60px;
+    left: 581.24px;
+    top: 2850px;
+    font-size: 15px;
+    width: 190px;
+    line-height: 25px;
+    color: white;
+    border: 1px solid white;
+    background-color: #091133;
+    padding: 0px 27px 0px 50px;
+    border-radius: 5px;
+}
+
+.see{
+    position: absolute;
+    height: 39px;
+    left: 600px;
+    right: 210.76px;
+    width: 2000px;
+    top: 3000px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #DF493A;
+}
+
+.video img{
+    
+position: absolute;
+width: 400px;
+height: 280px;
+left: 52.24px;
+top: 2900px;
+border-radius: 9px;
+float: left;
+}
+
+.love{
+    position: absolute;
+    width: 592px;
+    left: 500px;
+    top: 3050px;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: justify;
+    letter-spacing: 1px;
+    color: #505F98;
+}
+
+.trait-3 {
+    position: absolute;
+    width: 597.22px;
+    height: 160.4px;
+    left: 800px;
+    top: 3130px;
+    z-index: -50px;
+}
+
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: -1px;
+    top: 3280px;
+
+    background: #1F2367;
+}
+
+
+
+.logo-footer-1 img{
+    width: 80px;
+    height: 70px;
+    margin-left: 50px;
+    margin-top: 70px;
+    background: #5ECCB7;
+    border-radius: 20px;
+}
+
+.pricing p{
+
+    position: absolute;
+    width: 150px;
+    left: 150px;
+    top: 90px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-variant: small-caps;
+    color: #FFFFFF;
+}
+
+.small-title  ul {
+    margin-top: 30px;
+    margin-left: 128px;
+    margin-right: 300px;
+    list-style-type: none;
+    color: darkgray;
+    font-size: 10px;
+}
+
+.small-title ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.R500 p{
+    position: absolute;
+    left: 170px;
+    top: 220px;
+    color: white;
+    font-size: 20px;
+}
+
+.R7500 p{
+    position: absolute;
+    left: 550px;
+    top: 220px;
+    color: white;
+    font-size: 20px; 
+}
+
+.Contactus p{
+    position: absolute;
+    left: 940px;
+    top: 220px;
+    color: white;
+    font-size: 20px; 
+}
+
+
+.orr45{
+    margin-left: 168px;
+    font-size: 10px;
+    margin-top: 65px;
+    color: white;
+}
+
+
+
+.contienFooter ul{
+    list-style-type: none;
+    color: darkgray;
+    font-size: 13px;
+   
+}
+
+.list-R500 ul{
+    position: absolute;
+    left: 130px;
+    top: 300px;
+
+}
+
+
+.list-R7500 ul{
+    position: absolute;
+    left: 500px;
+    top: 300px;
+
+}
+
+.list-contact ul{
+    position: absolute;
+    left: 910px;
+    top: 300px;
+}
+
+.widthe ul,li{
+    width: 200px;
+}
+
+
+
+.bouton-iden a{
+    
+    left: 195px;
+    position: absolute;
+    top: 600px;
+    height: 46px;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 130px;
+    text-decoration: none;
+    line-height: 22px;
+    color: white;
+    border: 1px solid white;
+    padding: 0px 50px 0px 20px;
+    text-align: center;
+    padding-left: 40px;
+
+}
+
+.bouton-diff a{
+    
+    position: absolute;
+    left: 550px;
+    top: 600px;
+    height: 46px;
+    background: #5ECCB7;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 130px;
+    text-decoration: none;
+    line-height: 22px;
+    color: white;
+    border: 1px solid white;
+    padding: 0px 50px 0px 20px;
+    text-align: center;
+    padding-left: 40px;
+
+
+}
+
+
+
+.bouton-iden2 a{
+    position: absolute;
+    left: 958px;
+    top: 600px;
+    height: 46px;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 130px;
+    text-decoration: none;
+    line-height: 22px;
+    color: white;
+    border: 1px solid white;
+    padding: 0px 50px 0px 20px;
+    text-align: center;
+    padding-left: 40px; 
+}
+
+
+
+
+.dispute img{
+    margin-top: 3850px;
+    width: 400px;
+    height: 400px;
+
+}
+
+.clock-entreprise img{
+    position: absolute;
+    width: 80px;
+    height: 75px;
+    left: 500px;
+    top: 4070px;
+
+}
+
+.title-clock p{
+    position: absolute;
+    width: 457px;
+    left: 600px;
+    top: 4100px;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.paragraphe p{
+    position: absolute;
+    left: 500px;
+    right: 73.76px;
+    top: 4250px;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+.paragraphe-2 p{
+    position: absolute;
+    left: 500px;
+    right: 73.76px;
+    top: 4350px;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: justify;
+    letter-spacing: 1px;
+
+}
+
+.bouton-sms a{
+    text-decoration: none;
+    position: absolute;
+    font-size: 15px;
+    width: 168px;
+    height: 43px;
+    left: 500px;
+    top: 4440px;
+    background: #5ECCB7;
+    border-radius: 6px;
+    font-size: 13px;
+    color: white;
+    border: 1px solid white;
+   padding: 10px 5px 2px 15px;
+    
+}
+
+.bouton-enter a{
+
+    text-decoration: none;
+    position: absolute;
+    font-size: 15px;
+    width: 170px;
+    height: 42px;
+    left: 700px;
+    top: 4440px;
+    background: white;
+    border-radius: 6px;
+    font-size: 15px;
+    color:  #5ECCB7;
+    border: 1px solid white;
+   padding: 10px 5px 2px 15px;
+
+}
+
+
+.last-footer{
+    position: absolute;
+    width: 1500px;
+    height: 255px;
+    left: 1.24px;
+    top: 4700px;
+    background: #1F2367;
+}
+
+.img-footer img{
+    width: 150px;
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 60px;
+    
+}
+
+.title-footer2 ul{
+
+    list-style-type: none;
+    position: absolute;
+    left: 300px;
+    top: 90px;
+    font-variant: small-caps;
+    color: #FFFFFF;
+}
+
+
+.finish .title-footer2 ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Follow p{
+    position: absolute;
+    top: 90px;
+    left: 900px;
+    color: white;
+}
+
+.liste-footer ul{
+    list-style-type: none;
+    position: absolute;
+    left: 300px;
+    top: 140px;
+    font-size: 10px ;
+    color:darkgrey
+}
+
+.liste-footer-2 ul{
+    list-style-type: none;
+    position: absolute;
+    left: 500px;
+    top: 140px;
+    font-size: 10px;
+    color:darkgrey
+
+}
+
+.clock-education img{
+    margin-left: 30px;
+}
+
+
+
+
+
+@media screen and (max-width: 770px){
+    .logo{
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        left: 40.24px;
+        top: 32px;
+    }
+    .sign a{
+        margin-left: 500px;
+        top: 46px;
+    }
+
+    .login a{
+        margin-left: 600px;
+    }
+    .introduction{
+        background-color: #5ECCB7;
+        margin-top: 150px;
+        margin-right: 5px;
+        margin-left: 5px;
+        padding: 25px;   
+    }
+    
+    .presentation{
+        width: 500px;
+        letter-spacing: 0.01em;
+        margin-left: 0px;
+    }
+
+    .btn a{
+        margin-right: 0px;
+    }
+
+    .digitize{
+        width: 299px;
+        left: 40px;
+        right: 800px;
+        font-size: 15px;
+        color: #5ECCB7;
+    }
+
+    .engaging{
+        top: 450px;
+        font-size: 17px;
+        color: #091133;
+    }
+
+    .course a{
+
+        font-size: 15px;
+        width: 170px;
+        text-decoration: none;
+        top: 550px;
+        line-height: 25px;
+        padding: 0px 27px 0px 50px;
+        border-radius: 5px;
+        
+    }
+
+    .digital img{
+        position: absolute;
+        width: 420px;
+        height: 300px;
+        left: 250px;
+        top: 300px;
+     
+    }
+
+
+
+    .about{
+        position: absolute;
+        height: 25px;
+        left: 45px;
+        right: 1180.76px;
+        top: 650px;
+        color: #DF493A;
+    }
+     
+    .clock{
+        position: absolute;
+        left: 40px;
+        right: 500px;
+        top: 710px;
+        width: 400px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .trait {
+        position: absolute;
+        left: 393px;
+        top: 550px;
+    
+    } 
+
+    .trait img{
+        height: 500px;
+    }
+
+    .imagediver img{
+
+        width: 230px;
+        height: 280px;
+        left: 40px;
+        top: 1250px;
+    }
+    
+    .microsoft{
+        width: 320px;
+        left: 300px;
+        right: 140px;
+        top: 1270px;
+        font-size: 14px;
+    
+    }
+
+    .bigfuture img{
+        
+        width: 300px;
+        height: 200px;
+        left: 0px;
+        top: 1700px;
+    
+    }
+
+    .futurblue img{
+    
+        width: 70px;
+        height: 55px;
+        left: 300px;
+        top: 1700px;
+        border-radius: 17px;
+    }
+    
+
+    .fEATURES{
+    
+        width: 198px;
+        height: 40px;
+        left: 390px;
+        top: 1710px;
+        font-size: 23px;
+        
+    }
+
+    .pointiller{
+        width: 541.25px;
+        height: 145.37px;
+        left: 420px;
+        top: 1509px;
+    
+    }
+    
+    .pointiller img{
+        height: 400px;
+    }
+
+
+    .card{
+        margin-left: 100px;
+        top: 2250x;
+        height: 300px;
+    }
+
+    .card-2{
+        top: 2100px;
+        width: 200px;
+        height: 300px;
+        margin-left: 370px;
+    }
+
+    .card-3{
+        top: 2300px;
+        margin-left: 100px;
+        height: 300px;
+    }
+
+    
+    .card-4{
+        top: 2400px;
+        height: 300px;
+        margin-left: 370px;
+    }
+    
+
+    .card-5{
+
+    top: 2595px;
+    height: 300px;
+    margin-left: 100px;
+
+ }
+
+  .card-6{
+
+    top: 2699px;
+    height: 300px;
+    margin-left: 370px;
+  }
+
+  .card-7{
+
+    top: 2900px;
+    height: 300px;
+    margin-left: 100px;
+    
+  }
+
+ .card-8{
+    top: 2995px;
+    height: 300px;
+    margin-left: 370px;
+
+  }
+
+    .bouton-3 a{
+        
+        height: 60px;
+        left: 400px;
+        top: 3400px;
+        padding-top: 10px;
+    
+    }
+
+    .see{
+        left: 390px;
+        right: 210.76px;
+        width: 400px;
+        top: 3550px;
+        font-size: 19px;
+    }
+
+    .video img{  
+        
+        width: 310px;
+        height: 190px;
+        left: 40px;
+        top: 3530px;
+    }
+
+
+ 
+    .love{
+
+        width: 300px;
+        left: 400px;
+        top: 3600px;
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+
+
+    .trait-3{
+        position: absolute;
+        width: 597.22px;
+        height: 160.4px;
+        left: 300px;
+        top: 3700px;
+        z-index: 20px;
+    }
+
+        
+    .footer{
+        position: absolute;
+        width: 770px;
+        height: 850px;
+        left: -1px;
+        top: 3850px;
+
+        background: #1F2367;
+    }
+
+    
+
+    .logo-footer-1 img{
+
+        margin-top: 80px;
+    }
+
+    .pricing p{
+
+        position: absolute;
+        width: 150px;
+        left: 150px;
+        top: 100px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        font-variant: small-caps;
+        color: #FFFFFF;
+    }
+
+    .small-title  ul {
+        margin-top: 30px;
+        margin-left: 128px;
+        margin-right: 300px;
+        list-style-type: none;
+        color: darkgray;
+        font-size: 10px;
+    }
+
+    .small-title ul{
+        display: block;
+        justify-content: space-between;
+    }
+
+
+    .R500 p{
+        position: absolute;
+        left: 170px;
+        top: 240px;
+        color: white;
+        font-size: 20px;
+    }
+
+    .R7500 p{
+        position: absolute;
+        left: 550px;
+        top: 220px;
+        color: white;
+        font-size: 20px; 
+    }
+
+    .Contactus p{
+        
+        left: 170px;
+        top: 500px;
+    }
+
+
+    .orr45{
+        margin-left: 168px;
+        font-size: 10px;
+        margin-top: 30px;
+        color: white;
+    }
+
+
+
+    .contienFooter ul{
+        list-style-type: none;
+        color: darkgray;
+        font-size: 13px;
+    
+    }
+
+    .list-R500 ul{
+        position: absolute;
+        left: 130px;
+        top: 300px;
+    }
+
+
+    .list-R7500 ul{
+        position: absolute;
+        left: 500px;
+        top: 250px;
+
+    }
+
+    .list-contact ul{
+        left: 130px;
+        top: 540px;
+    }
+
+    .widthe ul,li{
+        width: 200px;
+    }
+    
+    .bouton-iden a{
+
+        position: absolute;
+
+        left: 90px;
+
+        top: 750px;
+
+        height: 46px;
+
+        font-size: 15px;
+
+        width: 130px;
+    
+        line-height: 22px;
+        
+        padding: 0px 50px 0px 20px;
+
+        text-align: center;
+
+        padding-left: 40px;
+    }
+
+    .bouton-diff a{
+        left: 300px;
+        top: 750px;
+    }
+
+    .bouton-iden2 a{
+
+        left: 560px;
+        top: 750px;
+        
+    }
+
+
+    .dispute img{
+        margin-top: 4550px;
+        width: 300px;
+        height: 340px;
+
+    }
+
+    .clock-entreprise img{
+    
+        width: 80px;
+        height: 75px;
+        left: 300px;
+        top: 4790px;
+
+    }
+
+    .title-clock p{
+
+        width: 457px;
+        left: 400px;
+        top: 4800px;
+        
+    }
+
+
+    
+    .paragraphe p{
+
+        left: 330px;
+        right: 73.76px;
+        top: 4900px;
+        width: 400px;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+
+    }
+
+    .paragraphe-2 p{
+
+
+        left: 330px;
+        right: 73.76px;
+        top: 5040px;
+        width: 400px;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }  
+
+    .bouton-sms a{
+
+        left: 320px;
+        top: 5160px;
+        
+    }
+
+    .bouton-enter a{
+
+        left: 530px;
+        top: 5160px;
+    }
+
+
+
+    
+
+.last-footer{
+    position: absolute;
+    width: 770px;
+    height: 255px;
+    left: 1.24px;
+    top: 5400px;
+    background: #1F2367;
+}
+
+.img-footer img{
+    width: 150px;
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 60px;
+    
+}
+
+.title-footer2 ul{
+
+    list-style-type: none;
+    position: absolute;
+    left: 200px;
+    top: 90px;
+    font-variant: small-caps;
+    color: #FFFFFF;
+}
+
+
+.finish .title-footer2 ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Follow p{
+    position: absolute;
+    top: 90px;
+    left: 650px;
+    color: white;
+}
+
+.liste-footer ul{
+    list-style-type: none;
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    font-size: 10px ;
+    color:darkgrey
+}
+
+.liste-footer-2 ul{
+    list-style-type: none;
+    position: absolute;
+    left: 400px;
+    top: 140px;
+    font-size: 10px;
+    color:darkgrey
+
+}
+
+.clock-education img{
+    margin-left: 30px;
+}
+
+
+  
+}  
+
+
+
+@media screen and (max-width: 360px){
+
+    .logo{
+        width: 3px;
+        height: 3px;
+        left: 3px;
+        top: 32px;
+    }
+
+    .sign a{
+        margin-left: 180px;
+        top: 46px;
+    }
+
+    .login a{
+        margin-left: 270px;
+    }
+
+    .introduction{
+        margin-top: 150px;
+        margin-right: 5px;
+        width: 360px;
+        height: 200px;
+        
+        
+    }
+
+    .introduction{
+        display: block;
+        justify-content: space-between;
+        
+    }
+
+    .presentation{
+        width: 300px;
+        letter-spacing: 0.01em;
+        margin-left: -10px;
+    }
+
+    .btn a{
+        position: absolute;
+        border: solid;
+        border: 1px solid white;
+        border-radius: 2px;
+        padding: 2px  12px 2px 12px;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 2px;
+        color: white;
+        background-color: #5ECCB7;
+        top: 300px;
+        
+    }
+
+
+    .digitize{
+
+
+        position: absolute;
+        height: 88px;
+        left: 10px;
+        right: 400px;
+        top: 400px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 45px;
+        letter-spacing: 1px;
+        color: #5ECCB7;
+        width: 340px;
+        text-align: center;
+        
+    }
+
+
+
+    .engaging{
+        position: absolute;
+        width: 300px;
+        left: 60px;
+        right: 1033.76px;
+        top: 580px;
+        font-weight: 200;
+        font-size: 20px;
+        line-height: 40px;
+        letter-spacing: 1px;
+        color: #091133;
+    }
+    
+
+
+    .course a{
+        position: absolute;
+        font-size: 15px;
+        width: 170px;
+        text-decoration: none;
+        top: 700px;
+        left: 70px;
+        line-height: 25px;
+        color: white;
+        border: 1px solid white;
+        background-color: #091133;
+        padding: 0px 27px 0px 50px;
+        border-radius: 5px;
+        
+    }
+
+
+
+    .digital img{
+        position: absolute;
+        width: 400px;
+        height: 243;
+        left: -50px;
+        top: 800px;
+     }
+
+     .trait {
+        float: right;
+        position: absolute;
+        left: 50px;
+        top: 1040px;
+        height: 100px;
+        width: 50px;
+    }
+
+    .about{
+        position: absolute;
+        height: 25px;
+        left: 120px;
+        right: 500px;
+        top: 1450px;
+        width: 400px;
+    
+        font-size: 22px;
+        line-height: 39px;
+        letter-spacing: 1px;
+        color: #DF493A;
+    
+    }
+    
+    .clock{
+        position: absolute;
+        left: 25px;
+        right: 300px;
+        top: 1550px;
+        font-size: 15px;
+        width: 300px;
+        text-align: justify;
+    }
+
+
+
+    .logo2 img{
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        left: 40px;
+        top: 1850px;
+    
+    }
+    .muitiplicitecontent {
+        
+    position: absolute;
+    left: 120px;
+    top: 1850px;
+    font-size: 15px;
+    font-weight: 0px;
+    letter-spacing: 1px;
+    
+    }
+    
+    .imagediver img{
+        position: absolute;
+        width: 250px;
+        height: 300px;
+        left: 50px;
+        top: 1990px;
+    }
+    
+
+
+
+    .microsoft{
+        position: absolute;
+        height: 241px;
+        left: 30px;
+        right: 140px;
+        top: 2350px;
+        
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+        letter-spacing: 1px;
+        width: 300px;
+
+    
+    }
+
+
+    .pointiller{
+        position: absolute;
+        width: 541.25px;
+        height: 145.37px;
+        left: 100px;
+        top: 2620px;
+    
+    }
+    
+
+    .bigfuture img{
+    
+        width: 300px;
+        height: 200px;
+        left: 0px;
+        top: 2950px;
+    
+    }
+
+
+
+    
+    .futurblue img{
+        
+        position: absolute;
+        width: 60px;
+        height: 50px;
+        left: 40px;
+        top: 2800px;
+        background: #00D4A9;
+        border-radius: 15px;
+    }
+    
+    .fEATURES{
+        
+        width: 198px;
+        height: 40px;
+        left: 110px;
+        top: 2800px;
+        font-size: 20px;
+
+        }
+        
+
+    .les-card{
+    
+        width: 100%;
+        height: auto;  
+    }
+    
+    
+    .card{
+
+
+        top: 3250px;
+        width: 52%;
+        height: 310px;
+        margin-left: 50px;
+        background: #DF493A;
+        
+    
+    }
+    
+    .card-header{
+        left: 146px;
+        padding: 50px 10px;
+        width: 100%;
+        height: 50px;
+        left: 131px;
+        background: #FFFFFF;
+        border-radius: 11px 11px 0px 0px;
+        box-shadow: 1px 1px  0px 1px lightgray;
+        
+    
+    }
+    
+    .card-img img{ 
+    
+        border-radius: 35%;
+        margin-top: -12px;
+        margin-left: 38px;
+        background: #1F2367;
+    
+    }
+    
+    .card-body{
+    
+        width: 189px;
+        height: 179px;
+        left: 146.24px;
+        font-weight: 398;
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 1px;
+        padding-left: 5px;
+        color: #1F2367;
+        border-radius: 50px;
+    }
+    
+    .card-2{
+
+        top: 3600px;
+        width: 52%;
+        height: 300px;
+        margin-left: 50px;
+        background: #ED9D5E;
+        
+    }
+    
+    
+    .card-header-2{
+        left: 146.24px;
+        padding: 50px 10px;
+        width: 100%;
+        height: 100px;
+        left: 131.24px;
+        background: white;
+        border-radius: 11px 11px 0px 0px;
+        box-shadow: 1px 1px  0px 1px lightgray;
+    
+    }
+    
+    .card-img-2 img{
+        border-radius: 30%;
+        margin-top: -12px;
+        margin-left: 40px;
+        background: #1F2367;
+    
+    }
+    
+    .card-body-2{
+        width: 195px;
+        height: 179px;
+        left: 146.24px;
+        font-weight: 398;
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 1px;
+        padding-left: 5px;
+        color: #1F2367;
+        border-radius: 50px;
+    }
+    
+    .card-3{
+    
+
+        top: 3950px;
+        width: 52%;
+        height: 300px;
+        margin-left: 50px;
+        background: #6DA0A1;
+        
+    
+    }
+    
+    .card-header-3{
+        left: 146.24px;
+        padding: 50px 10px;
+        width: 100%;
+        height: 100px;
+        left: 131.24px;
+        background: #FFFFFF;
+        border-radius: 11px 11px 0px 0px;
+        box-shadow: 1px 1px  0px 1px lightgray;
+    
+        
+    }
+    
+    
+    .card-img-3 img{
+        border-radius: 50%;
+        margin-top: -12px;
+        margin-left: 40px;
+        background: #1F2367;
+    
+    }
+    
+    .card-body-3{
+        width: 188px;
+        height: 179px;
+        left: 146.24px;
+        font-weight: 398;
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 1px;
+        padding-left: 5px;
+        color: #1F2367;
+        border-radius: 50px;
+     
+    }
+    
+    .card-4{
+    
+        top: 4300px;
+        width: 52%;
+        height: 300px;
+        margin-left: 50px;
+        background: #D97AA3;
+        
+     
+    }
+    
+    .card-5{
+
+        top: 4650px;
+        width: 50%;
+        height: 300px;
+        margin-left: 50px;
+        
+    }
+    
+
+    .card-6{
+
+        top: 5000px;
+        width: 50%;
+        height: 300px;
+        margin-left: 50px;
+    
+        
+    }
+    
+    .card-7{
+    
+        top: 5350px;
+        width: 52%;
+        height: 300px;
+        margin-left: 48px;
+    
+    }
+    
+    .card-8{
+    
+        top: 5700px;
+        width: 50%;
+        height: 300px;
+        margin-left: 50px;
+    
+    
+    }
+    
+
+    .bouton-3 a{
+
+        height: 50px;
+        left: 70px;
+        top: 6190px;
+        font-size: 12px;
+        width: 140px;
+        padding: 0px 27px 0px 50px;
+    }
+
+
+    .see{
+
+        left: 50px;
+        width: 250px;
+        top: 6300px;
+        font-size: 18px;
+    }
+    
+    .video img{
+        
+
+    width: 200px;
+    height: 180px;
+    left: 52.24px;
+    top: 6400px;
+
+    }
+    
+    .love{
+        position: absolute;
+        width: 300px;
+        left: 30px;
+        top: 6660px;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+        letter-spacing: 1px;
+        color: #505F98;
+    }
+    
+
+    .trait-3{
+        position: absolute;
+        width: 597.22px;
+        height: 160.4px;
+        left: -60px;
+        top: 6890px;
+        z-index: 20px;
+    }
+        
+    .footer{
+        position: absolute;
+        width: 360px;
+        height: 995px;
+        left: -1px;
+        top: 6990px;
+
+        background: #1F2367;
+    }
+
+    
+    .logo-footer-1 img{
+        width: 70px;
+        height: 60px;
+
+        margin-top: 60px;
+    }
+
+    .pricing p{
+
+        position: absolute;
+        width: 150px;
+        left: 150px;
+        top: 70px;
+        font-size: 20px;
+        letter-spacing: 1px;
+
+    }
+
+    .small-title  ul {
+        margin-top: 30px;
+        margin-left: 50px;
+        margin-right: 300px;
+        list-style-type: none;
+        color: darkgray;
+        font-size: 10px;
+    }
+
+    .small-title ul{
+        display: block;
+        justify-content: space-between;
+    }
+
+
+    .R500 p{
+        position: absolute;
+        left: 100px;
+        top: 230px;
+        font-size: 15px;
+    }
+
+    .R7500 p{
+        position: absolute;
+        left: 100px;
+        top: 395px;
+        font-size: 15px; 
+    }
+
+    .Contactus p{
+        
+        left: 100px;
+        top: 570px;
+    }
+
+
+    .orr45{
+        margin-left: 100px;
+        font-size: 9px;
+        margin-top: 65px;
+    }
+
+
+
+    .contienFooter ul{
+        list-style-type: none;
+        color: darkgray;
+        font-size: 11px;
+    
+    }
+
+    .list-R500 ul{
+        position: absolute;
+        left: 50px;
+        top: 280px;
+    }
+
+
+    .list-R7500 ul{
+        position: absolute;
+        left: 50px;
+        top: 420px;
+
+    }
+
+    .list-contact ul{
+        left: 50px;
+        top: 600px;
+    }
+
+    .widthe ul,li{
+        width: 200px;
+    }
+    
+    .bouton-iden a{
+        
+        position: absolute;
+        left: 90px;
+        top: 750px;
+        height: 40px;
+        font-size: 10px;
+        width: 100px;
+    
+    }
+
+    .bouton-diff a{
+
+        left: 90px;
+        top: 810px;
+        width: 100px;
+        height: 40px;
+        font-size: 10px;
+
+    }
+
+    .bouton-iden2 a{
+        left: 90px;
+        top: 870px;
+        width: 100px;
+        height: 40px;
+        font-size: 10px;
+    }
+
+
+
+
+
+
+
+
+    .dispute img{
+        margin-top: 7900px;
+        width: 150px;
+        height: 150px;
+
+
+    }
+
+    .clock-entreprise img{
+    
+        width:  55px;
+        height: 55px;
+        left:  20px;
+        top: 8100px;
+
+    }
+
+    .title-clock p{
+
+        width: 457px;
+        left: 80px;
+        top: 8120px;
+        letter-spacing: 0px;
+        font-size: medium;
+        
+    }
+
+
+    
+    .paragraphe p{
+
+        left: 10px;
+        top: 8480px;
+        width: 300px;
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+
+    }
+
+    .paragraphe-2 p{
+
+        left: 10px;
+        top: 8620px;
+        width: 300px;
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+    }  
+
+    .bouton-sms a{
+
+        left: 20px;
+        top: 8800px;
+        width: 120px;
+        
+    }
+
+    .bouton-enter a{
+
+        left: 190px;
+        top: 8800px;
+        width: 120px;
+        border: 1px solid gainsboro;
+    }
+    
+
+    .last-footer{
+        
+        width: 360px;
+        height: 400px;
+        left: 1.24px;
+        top: 9000px;
+        
+    }
+    
+    .img-footer img{
+        width: 90px;
+        height: 70px;
+        margin-left: 30px;
+        margin-top: 40px;
+        
+    }
+    
+    .title-footer2 ul{
+    
+        
+        left: 20px;
+        top: 150px;
+        
+    }
+    
+    
+    .finish .title-footer2 ul{
+        display: block;
+        justify-content: space-between;
+    }
+    
+    .Follow p{
+        position: absolute;
+        top: 200px;
+        left: 60px;
+        color: white;
+    }
+    
+    .liste-footer ul{
+    
+        left: 20px;
+        top: 240px;
+
+    }
+    
+    .liste-footer-2 ul{
+    
+        left: 20px;
+        top: 290px;
+        
+    
+    }
+    
+    .clock-education img{
+        margin-left: 30px;
+    }
+    
+
+
+
+}
+
+
